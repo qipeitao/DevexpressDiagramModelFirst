@@ -3,3 +3,5 @@
 ################################################################################
 
 /.vs/DevexpressDiagramTest/v16
+/DevexpressDiagramTest/bin/Debug/net5.0-windows
+/DevexpressDiagramTest/obj
